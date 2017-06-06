@@ -1,7 +1,0 @@
-*.o
-*.obj
-*.res
-wait
-wait.exe
-Makefile
-make.bat
